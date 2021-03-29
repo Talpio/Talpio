@@ -3,7 +3,8 @@
 - :telescope: I’m open to part-time job proposals!
 - :seedling: Currently learning HTML5 and CSS3
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=talpio&count_private=true&show_icons=true&hide=contribs,,issues)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=talpio&count_private=true&show_icons=true&theme=dark&hide=contribs,,issues" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talpio&repo=talpio.github.io&theme=dark" />
 
 <!--
 **murraco/murraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
