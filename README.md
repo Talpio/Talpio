@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - :telescope: I’m open to part-time job proposals!
-- :seedling: Currently learning Django and Angular 8+
+- :seedling: Currently learning HTML5 and CSS3
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murraco&count_private=true&show_icons=true&hide=contribs,,issues)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=talpio&count_private=true&show_icons=true&hide=contribs,,issues)
 
 <!--
 **murraco/murraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
